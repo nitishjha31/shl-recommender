@@ -1,0 +1,10 @@
+{
+  "_note": "This is an ILLUSTRATIVE example only, written to match the shape described in the assignment (persona + facts + expected shortlist). Replace this file with the real 10 traces from the assignment's provided zip before you evaluate -- this repo does not include those since they weren't attached to the assignment doc.",
+  "persona": "Hiring manager looking for a mid-level backend developer",
+  "facts": {
+    "role": "Java developer",
+    "seniority": "mid-level, ~4 years experience",
+    "notes": "works closely with stakeholders, no strong test-type preference"
+  },
+  "expected_shortlist_contains_any_of": ["Java 8 (New)", "Spring (New)", "OPQ32r"]
+}

@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test measuring core Java 8 language knowledge, including OOP concepts, collections, exception handling and the Java 8 language features (lambdas, streams).",
+    "keywords": ["java", "backend", "developer", "programming", "oop", "spring", "coding"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/spring-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test that measures knowledge of Spring core, AOP, the IOC container and transaction management.",
+    "keywords": ["java", "spring", "backend", "framework", "developer"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor", "Entry-Level"],
+    "description": "Multi-choice test that measures knowledge of SQL queries, data manipulation and transaction processing.",
+    "keywords": ["sql", "database", "data", "backend", "developer", "queries"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test measuring knowledge of the software testing lifecycle, testing tools and techniques, design of test cases and generation of test reports.",
+    "keywords": ["qa", "testing", "test case", "quality assurance", "manual testing"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Selenium (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test measuring knowledge of the Selenium WebDriver API and automated web testing concepts.",
+    "keywords": ["automation", "testing", "qa", "selenium", "webdriver"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test that measures knowledge of the .NET Framework 4.5 including CLR, assemblies and core libraries.",
+    "keywords": ["dotnet", ".net", "c#", "backend", "developer", "microsoft"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "C# (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-sharp-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test that measures core C# language knowledge including OOP, LINQ, generics and exception handling.",
+    "keywords": ["c#", "csharp", "dotnet", ".net", "backend", "developer"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor", "Entry-Level"],
+    "description": "Multi-choice test that measures core Python language knowledge including data structures, OOP and standard library usage.",
+    "keywords": ["python", "backend", "developer", "scripting", "programming", "data"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor", "Entry-Level"],
+    "description": "Multi-choice test that measures core JavaScript language knowledge including closures, async programming and the DOM.",
+    "keywords": ["javascript", "js", "frontend", "web", "developer"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/html-css-new/",
+    "test_type": "K",
+    "job_levels": ["Entry-Level", "Professional Individual Contributor"],
+    "description": "Multi-choice test that measures knowledge of HTML5 and CSS3 including layout, semantics and responsive design.",
+    "keywords": ["html", "css", "frontend", "web", "developer", "design"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "React (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/react-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test measuring knowledge of React fundamentals including components, hooks, state management and the virtual DOM.",
+    "keywords": ["react", "frontend", "javascript", "web", "developer"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Angular (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/angular-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test measuring knowledge of Angular fundamentals including components, services, dependency injection and RxJS.",
+    "keywords": ["angular", "frontend", "javascript", "web", "developer"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Node.js (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/node-js-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test measuring knowledge of Node.js runtime, asynchronous programming, npm and building REST APIs.",
+    "keywords": ["node", "nodejs", "backend", "javascript", "developer", "api"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "PHP (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/php-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test that measures core PHP language knowledge including OOP, sessions and common web application patterns.",
+    "keywords": ["php", "backend", "web", "developer"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "C++ (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-plus-plus-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test that measures core C++ language knowledge including memory management, templates and OOP.",
+    "keywords": ["c++", "cpp", "systems", "developer", "backend"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "description": "Multi-choice test that measures knowledge of Agile principles, Scrum and Kanban practices used in iterative software delivery.",
+    "keywords": ["agile", "scrum", "kanban", "project management", "developer"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Project Management (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/project-management-new/",
+    "test_type": "K",
+    "job_levels": ["Manager", "Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test that measures conceptual knowledge of project management principles including scope, schedule, budget and risk management.",
+    "keywords": ["project management", "pm", "planning", "scheduling", "manager"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Marketing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
+    "test_type": "K",
+    "job_levels": ["Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Supervisor"],
+    "description": "Multi-choice test that measures conceptual knowledge of marketing principles, market research, consumer behavior, brand management, sales management, channel management and advertisement management.",
+    "keywords": ["marketing", "brand", "market research", "advertising", "sales"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Human Resources (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/",
+    "test_type": "K",
+    "job_levels": ["Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Supervisor"],
+    "description": "Multi-choice test that measures knowledge and understanding of basic HR management concepts including planning, training and development, performance appraisal, compensation management and organizational behavior.",
+    "keywords": ["hr", "human resources", "recruiting", "compensation", "training"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-accounting-new/",
+    "test_type": "K",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test that measures knowledge of financial accounting principles including journal entries, financial statements and reconciliation.",
+    "keywords": ["finance", "accounting", "bookkeeping", "financial statements"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Basic Computer Literacy (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-new/",
+    "test_type": "K",
+    "job_levels": ["Entry-Level"],
+    "description": "Multi-choice test that measures basic computer literacy including operating systems, file management and common office applications.",
+    "keywords": ["computer literacy", "office", "entry level", "basic skills"],
+    "duration_minutes": 10,
+    "remote_testing": true
+  },
+  {
+    "name": "Data Entry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-new/",
+    "test_type": "K",
+    "job_levels": ["Entry-Level"],
+    "description": "Simulation-based test that measures speed and accuracy of data entry from source documents into a database format.",
+    "keywords": ["data entry", "typing", "clerical", "administrative", "entry level"],
+    "duration_minutes": 10,
+    "remote_testing": true
+  },
+  {
+    "name": "Administrative Professional - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "test_type": "K",
+    "job_levels": ["Entry-Level", "Professional Individual Contributor"],
+    "description": "A short assessment of administrative skills including checking, filing, business vocabulary and proofreading, relevant to office support roles.",
+    "keywords": ["administrative", "office", "clerical", "proofreading", "support"],
+    "duration_minutes": 20,
+    "remote_testing": true
+  },
+  {
+    "name": "Contact Center Customer Service +",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-customer-service-plus/",
+    "test_type": "S",
+    "job_levels": ["Entry-Level", "Professional Individual Contributor"],
+    "description": "A simulation that measures customer-service oriented behavior and situational judgment relevant to contact center and service roles.",
+    "keywords": ["customer service", "call center", "contact center", "support", "service"],
+    "duration_minutes": 30,
+    "remote_testing": true
+  },
+  {
+    "name": "Sales & Service Phone Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-service-phone-solution/",
+    "test_type": "S",
+    "job_levels": ["Entry-Level", "Professional Individual Contributor"],
+    "description": "A combined ability, personality and simulation solution for phone-based sales and service roles.",
+    "keywords": ["sales", "phone", "customer service", "inside sales", "call center"],
+    "duration_minutes": 35,
+    "remote_testing": true
+  },
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32r/",
+    "test_type": "P",
+    "job_levels": ["Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Supervisor", "Executive"],
+    "description": "The Occupational Personality Questionnaire (OPQ32r) measures 32 workplace personality characteristics that influence how a person prefers to behave at work, mapped to competency potential.",
+    "keywords": ["personality", "opq", "behavior", "workplace behavior", "stakeholder", "communication", "team"],
+    "duration_minutes": 25,
+    "remote_testing": true
+  },
+  {
+    "name": "Motivation Questionnaire (MQ)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mq/",
+    "test_type": "P",
+    "job_levels": ["Graduate", "Manager", "Mid-Professional", "Professional Individual Contributor", "Supervisor"],
+    "description": "The Motivation Questionnaire measures what energizes and motivates an individual at work across 18 motivational dimensions.",
+    "keywords": ["motivation", "engagement", "personality", "drive"],
+    "duration_minutes": 25,
+    "remote_testing": true
+  },
+  {
+    "name": "Workplace Personality Inventory (WPI)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-personality-inventory-wpi/",
+    "test_type": "P",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Supervisor"],
+    "description": "A personality inventory measuring workplace-relevant traits used to predict typical performance and cultural fit.",
+    "keywords": ["personality", "culture fit", "workplace behavior", "traits"],
+    "duration_minutes": 25,
+    "remote_testing": true
+  },
+  {
+    "name": "Remote Work Questionnaire (RWQ)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/remote-work-questionnaire-rwq/",
+    "test_type": "P",
+    "job_levels": ["Professional Individual Contributor", "Mid-Professional"],
+    "description": "A questionnaire measuring an individual's preferences and readiness for remote and distributed work arrangements.",
+    "keywords": ["remote work", "distributed", "wfh", "personality"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Global Skills Assessment (GSA)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment-gsa/",
+    "test_type": "K",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor"],
+    "description": "A broad, multi-domain assessment of general workplace skills spanning numerical, verbal and problem-solving content, used for global comparison across candidate pools.",
+    "keywords": ["general skills", "global", "gsa", "problem solving", "workplace skills"],
+    "duration_minutes": 36,
+    "remote_testing": true
+  },
+  {
+    "name": "Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-inductive-reasoning/",
+    "test_type": "A",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "description": "An interactive cognitive ability test measuring inductive reasoning: the ability to identify patterns and relationships in novel information.",
+    "keywords": ["cognitive", "reasoning", "inductive", "problem solving", "aptitude"],
+    "duration_minutes": 24,
+    "remote_testing": true
+  },
+  {
+    "name": "Verify - Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+    "test_type": "A",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "description": "A cognitive ability test measuring deductive reasoning: the ability to draw logical conclusions from given premises.",
+    "keywords": ["cognitive", "reasoning", "deductive", "logic", "aptitude"],
+    "duration_minutes": 18,
+    "remote_testing": true
+  },
+  {
+    "name": "Verify - Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-reasoning/",
+    "test_type": "A",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "description": "A cognitive ability test measuring the ability to interpret and reason with numerical data such as tables and charts.",
+    "keywords": ["cognitive", "numerical", "reasoning", "data", "aptitude", "math"],
+    "duration_minutes": 18,
+    "remote_testing": true
+  },
+  {
+    "name": "Verify - Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-reasoning/",
+    "test_type": "A",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager"],
+    "description": "A cognitive ability test measuring the ability to evaluate and reason with written information.",
+    "keywords": ["cognitive", "verbal", "reasoning", "reading comprehension", "aptitude"],
+    "duration_minutes": 18,
+    "remote_testing": true
+  },
+  {
+    "name": "Verify G+",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-plus/",
+    "test_type": "A",
+    "job_levels": ["Graduate", "Mid-Professional", "Professional Individual Contributor", "Manager", "Executive"],
+    "description": "A general cognitive ability test combining verbal, numerical and inductive reasoning into a single composite score of general mental ability.",
+    "keywords": ["cognitive", "general ability", "reasoning", "aptitude", "g+"],
+    "duration_minutes": 36,
+    "remote_testing": true
+  },
+  {
+    "name": "Verify - Calculation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-calculation/",
+    "test_type": "A",
+    "job_levels": ["Entry-Level", "Graduate", "Mid-Professional"],
+    "description": "A cognitive ability test measuring mental arithmetic and calculation speed without the use of a calculator.",
+    "keywords": ["cognitive", "calculation", "math", "arithmetic", "aptitude"],
+    "duration_minutes": 12,
+    "remote_testing": true
+  },
+  {
+    "name": "Verify - Reading Comprehension",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-reading-comprehension/",
+    "test_type": "A",
+    "job_levels": ["Entry-Level", "Graduate", "Mid-Professional"],
+    "description": "A cognitive ability test measuring the ability to understand and draw accurate conclusions from written passages.",
+    "keywords": ["cognitive", "reading", "comprehension", "aptitude"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "General Entry Level - Data Entry 7.0 Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+    "test_type": "S",
+    "job_levels": ["Entry-Level"],
+    "description": "A combined solution of ability and simulation content for entry-level data entry and clerical roles.",
+    "keywords": ["data entry", "entry level", "clerical", "typing"],
+    "duration_minutes": 30,
+    "remote_testing": true
+  },
+  {
+    "name": "Ruby on Rails (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ruby-on-rails-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test that measures knowledge of the Ruby on Rails framework including MVC structure, ActiveRecord and routing.",
+    "keywords": ["ruby", "rails", "backend", "web", "developer"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "ASP.NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-mvc-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test that measures knowledge of the ASP.NET MVC framework including routing, controllers, views and model binding.",
+    "keywords": ["asp.net", "mvc", "c#", ".net", "backend", "developer"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "AWS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/aws-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test that measures knowledge of core AWS services including compute, storage, networking and security fundamentals.",
+    "keywords": ["aws", "cloud", "devops", "infrastructure", "developer"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  },
+  {
+    "name": "Docker (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/docker-new/",
+    "test_type": "K",
+    "job_levels": ["Mid-Professional", "Professional Individual Contributor"],
+    "description": "Multi-choice test that measures knowledge of containerization concepts and the Docker toolchain.",
+    "keywords": ["docker", "containers", "devops", "cloud", "developer"],
+    "duration_minutes": 15,
+    "remote_testing": true
+  }
+]
